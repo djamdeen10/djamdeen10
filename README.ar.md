@@ -1,18 +1,22 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" alt="Djam Deen — Backend Developer &amp; AI-Assisted Product Builder, based in Cotonou, Benin. Currently building AgentMob." width="100%">
-  </picture>
+
+<sub><strong>مرحبًا 👋، أنا</strong></sub>
+
+<h3><img src="assets/avatar-round.png" width="124" height="124" alt="Djam Deen" /><br/>Djam Deen</h3>
+
+<p>💻&nbsp;مطوّر&nbsp;باك&nbsp;إند&nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;🤖&nbsp;بانٍ&nbsp;منتجات&nbsp;بالذكاء&nbsp;الاصطناعي&nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;⚽&nbsp;مشجّع&nbsp;برشلونة&nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;🐱&nbsp;محبّ&nbsp;للقطط</p>
+
+<p>
+<a href="https://djamdeen.com/ar"><img src="https://img.shields.io/badge/-171717?style=flat-square&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PHBhdGggZD0iTTMgMTJoMTgiLz48cGF0aCBkPSJNMTIgM2MzIDMuMiAzIDE0LjggMCAxOE0xMiAzYy0zIDMuMi0zIDE0LjggMCAxOCIvPjwvc3ZnPg==&amp;logoColor=white" height="34" alt="djamdeen.com" /></a>&nbsp;&nbsp;
+<a href="mailto:djamdeen10@gmail.com"><img src="https://img.shields.io/badge/-171717?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" height="34" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://github.com/djamdeen10"><img src="https://img.shields.io/badge/-171717?style=flat-square&amp;logo=github&amp;logoColor=white" height="34" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://x.com/djamdeen10"><img src="https://img.shields.io/badge/-171717?style=flat-square&amp;logo=x&amp;logoColor=white" height="34" alt="X" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/djamdeen10"><img src="https://img.shields.io/badge/-171717?style=flat-square&amp;logo=facebook&amp;logoColor=1877F2" height="34" alt="Facebook" /></a>
+</p>
+
 </div>
 
-<div align="center">
-  <a href="https://djamdeen.com"><img src="https://img.shields.io/badge/djamdeen.com-171717?style=flat-square" alt="djamdeen.com" /></a>
-  <a href="mailto:djamdeen10@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/djamdeen10"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/djamdeen10"><img src="https://img.shields.io/badge/X-171717?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/djamdeen10"><img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-</div>
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
@@ -20,11 +24,9 @@
 
 </div>
 
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+
 <div dir="rtl" align="right">
-
-## مرحبًا 👋 — Djam Deen
-
-**مطوّر باك إند وبانٍ لمنتجات بالذكاء الاصطناعي** · كوتونو، بنين
 
 أنا **Djamal ALIDOU M.**، لكن يمكنك ببساطة أن تناديني **Djam Deen**. أنا من بنين وأعيش في كوتونو.
 
@@ -91,23 +93,35 @@ AgentMob هو المشروع الذي يأخذ معظم ليالي حاليًا.
 
 **تُختار حسب المشكلة، لا العكس.**
 
+<table>
+<tr>
+<td width="47%" valign="top">
+
 **اللغات**<br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=000" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=fff" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=fff" alt="Python" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=000" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=fff" alt="C++" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=fff" alt="Java" />
-
-**الواجهة**<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=fff" alt="Next.js" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=fff" alt="Vite" />
 
 **الخلفية و API**<br/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=fff" alt="Node.js" /> <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&amp;logo=hono&amp;logoColor=fff" alt="Hono" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=fff" alt="Laravel" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=fff" alt="FastAPI" />
 
-**البيانات**<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=fff" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=fff" alt="SQLite" />
-
 **الذكاء الاصطناعي**<br/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&amp;logo=claude&amp;logoColor=fff" alt="Claude" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&amp;logo=deepseek&amp;logoColor=fff" alt="DeepSeek" />
 
+</td>
+<td width="6%" align="center" valign="middle"><img src="assets/divider-v.svg" height="320" alt="" /></td>
+<td width="47%" valign="top">
+
+**الواجهة**<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=000" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=fff" alt="Next.js" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=fff" alt="Vite" />
+
+**البيانات**<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=fff" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=fff" alt="SQLite" />
+
 **الأدوات والبنية التحتية**<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=fff" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=fff" alt="GitHub" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&amp;logo=vitest&amp;logoColor=fff" alt="Vitest" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=fff" alt="Cloudflare" />
+
+</td>
+</tr>
+</table>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
@@ -171,7 +185,11 @@ AgentMob هو المشروع الذي يأخذ معظم ليالي حاليًا.
 أنا دائمًا مستعد للحديث عنه. الأسهل أن تراسلني.
 
 <p align="center">
-  <a href="mailto:djamdeen10@gmail.com">راسلني</a> · <a href="https://djamdeen.com/ar">djamdeen.com</a> · <a href="https://github.com/djamdeen10">GitHub</a> · <a href="https://x.com/djamdeen10">X</a>
+<a href="mailto:djamdeen10@gmail.com"><img src="https://img.shields.io/badge/-%D8%B1%D8%A7%D8%B3%D9%84%D9%86%D9%8A-171717?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="راسلني" /></a>&nbsp;
+<a href="https://djamdeen.com/ar"><img src="https://img.shields.io/badge/-djamdeen.com-171717?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5Ii8+PHBhdGggZD0iTTMgMTJoMTgiLz48cGF0aCBkPSJNMTIgM2MzIDMuMiAzIDE0LjggMCAxOE0xMiAzYy0zIDMuMi0zIDE0LjggMCAxOCIvPjwvc3ZnPg==&amp;logoColor=white" alt="djamdeen.com" /></a>&nbsp;
+<a href="https://github.com/djamdeen10"><img src="https://img.shields.io/badge/-GitHub-171717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="https://x.com/djamdeen10"><img src="https://img.shields.io/badge/-X-171717?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>&nbsp;
+<a href="https://www.facebook.com/djamdeen10"><img src="https://img.shields.io/badge/-Facebook-171717?style=for-the-badge&amp;logo=facebook&amp;logoColor=1877F2" alt="Facebook" /></a>
 </p>
 
 <div align="center">
