@@ -1,28 +1,39 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" alt="Djam Deen — Backend Developer &amp; AI-Assisted Product Builder, based in Cotonou, Benin. Currently building AgentMob." width="100%">
-  </picture>
+  <sub><strong>HI, I AM</strong></sub>
 </div>
 
-<div align="center">
-  <a href="https://djamdeen.com"><img src="https://img.shields.io/badge/djamdeen.com-171717?style=flat-square" alt="djamdeen.com" /></a>
-  <a href="mailto:djamdeen10@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/djamdeen10"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/djamdeen10"><img src="https://img.shields.io/badge/X-171717?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/djamdeen10"><img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-</div>
+<table>
+<tr>
+<td width="48%" align="center" valign="middle">
+
+<img src="assets/avatar.jpg" width="132" alt="Djam Deen" />
+
+<h3>Djam Deen</h3>
+
+<p>
+Backend Developer<br/>
+AI-Powered Builder<br/>
+FC Barcelona Fan<br/>
+Cats Lover
+</p>
+
+</td>
+<td width="52%" align="left" valign="middle">
+
+<a href="https://djamdeen.com"><img src="https://img.shields.io/badge/djamdeen.com-171717?style=flat-square&amp;logo=safari&amp;logoColor=white" height="28" alt="Website" /></a><br/><br/>
+<a href="mailto:djamdeen10@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" height="28" alt="Email" /></a><br/><br/>
+<a href="https://x.com/djamdeen10"><img src="https://img.shields.io/badge/X-171717?style=flat-square&amp;logo=x&amp;logoColor=white" height="28" alt="X" /></a><br/><br/>
+<a href="https://www.facebook.com/djamdeen10"><img src="https://img.shields.io/badge/Facebook-171717?style=flat-square&amp;logo=facebook&amp;logoColor=1877F2" height="28" alt="Facebook" /></a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
 **English** · [`fr` Français](README.fr.md) · [`es` Español](README.es.md) · [`ar` العربية](README.ar.md) · [`pt` Português](README.pt.md) · [`zh` 简体中文](README.zh.md) · [`ja` 日本語](README.ja.md) · [`ru` Русский](README.ru.md)
 
 </div>
-
-## hi, I am Djam Deen 👋
-
-**Backend Developer & AI-Assisted Product Builder** · Cotonou, Benin
 
 I’m **Djamal ALIDOU M.**, but you can simply call me **Djam Deen**. I’m from Benin and based in Cotonou.
 
