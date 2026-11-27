@@ -192,11 +192,13 @@ I’m always happy to talk about it. The easiest way is to write to me.
 
 <div align="center">
   <em>“The people who are crazy enough to think they can change the world are the ones who do.”</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com) · Made with ❤️ in Cotonou
+© 2026 Djam Deen — All rights reserved
 
 </div>

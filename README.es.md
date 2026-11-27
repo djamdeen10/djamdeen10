@@ -192,11 +192,13 @@ Siempre estoy dispuesto a hablarlo. Lo más fácil es que me escribas.
 
 <div align="center">
   <em>«Solo quienes están lo bastante locos para pensar que pueden cambiar el mundo lo consiguen»</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/es) · Hecho con ❤️ en Cotonú
+© 2026 Djam Deen — All rights reserved
 
 </div>

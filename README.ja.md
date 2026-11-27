@@ -192,11 +192,13 @@
 
 <div align="center">
   <em>「世界を変えられると本気で信じるほどクレイジーな人たちが、実際に世界を変えてきた。」</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/ja) · コトヌーで ❤️ を込めて
+© 2026 Djam Deen — All rights reserved
 
 </div>

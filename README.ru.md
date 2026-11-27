@@ -192,11 +192,13 @@ AgentMob — проект, который сейчас занимает боль
 
 <div align="center">
   <em>«Люди, которые достаточно безумны, чтобы думать, что могут изменить мир, — те, кто это делает.»</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/ru) · Сделано с ❤️ в Котону
+© 2026 Djam Deen — All rights reserved
 
 </div>

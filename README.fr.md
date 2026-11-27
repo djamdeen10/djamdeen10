@@ -192,11 +192,13 @@ Je suis toujours partant pour en discuter. Le plus simple, c’est de m’écrir
 
 <div align="center">
   <em>« Seuls ceux qui sont assez fous pour penser qu’ils peuvent changer le monde y parviennent »</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/fr) · Fait avec ❤️ à Cotonou
+© 2026 Djam Deen — All rights reserved
 
 </div>

@@ -192,11 +192,13 @@ AgentMob 是目前占据我大部分夜晚的项目。其余——深夜原型�
 
 <div align="center">
   <em>「只有那些疯狂到以为自己能改变世界的人，才能真正改变世界。」</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/zh) · 用 ❤️ 在科托努制作
+© 2026 Djam Deen — All rights reserved
 
 </div>

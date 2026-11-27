@@ -192,11 +192,13 @@ Estou sempre disponível para falar sobre isso. O mais simples é escreveres-me.
 
 <div align="center">
   <em>«As pessoas que estão suficientemente loucas para pensar que podem mudar o mundo são as que o fazem.»</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/pt) · Feito com ❤️ em Cotonou
+© 2026 Djam Deen — All rights reserved
 
 </div>

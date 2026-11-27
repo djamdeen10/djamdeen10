@@ -194,12 +194,14 @@ AgentMob هو المشروع الذي يأخذ معظم ليالي حاليًا.
 
 <div align="center">
   <em>«الأشخاص المجنونون بما يكفي ليعتقدوا أنهم يستطيعون تغيير العالم هم الذين يغيّرونه فعلًا.»</em><br/>
-  <sub>— Steve Jobs</sub>
+  — Steve Jobs
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
 
 <div align="center">
 
-[djamdeen.com](https://djamdeen.com/ar) · صُنع بـ ❤️ في كوتونو
+© 2026 Djam Deen — All rights reserved
 
 </div>
 
